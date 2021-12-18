@@ -1,0 +1,2 @@
+## Silent Auction Program
+This program creates a simulated silent auction that allows users to register for an account, sign-in, list items and purchase items. The registration and sign-in process salt the password to ensure that no sensitive information is stored in plain text. Additionally, account balances update as items are bought or sold. This application uses both Swing and AWT to create a functional user interface (albeit it is not pretty).
